@@ -1,0 +1,19 @@
+{
+	"type": "module",
+	"name": "@intrnl/route-matcher",
+	"description": "Lightweight utility for converting route patterns into regular expressions.",
+	"version": "0.1.0",
+	"license": "MIT",
+	"author": "intrnl",
+	"repository": {
+		"url": "https://github.com/intrnl/route-matcher"
+	},
+	"main": "lib/index.js",
+	"files": [
+		"lib/",
+		"README.md"
+	],
+	"engines": {
+		"node": ">= 12.7.0"
+	}
+}
