@@ -120,4 +120,8 @@ Unnamed parameters are not supported.
 
 ## License
 
+**path-matcher** © [intrnl][license-author]  
 Licensed under MIT
+
+
+[license-author]: https://github.com/intrnl
