@@ -65,8 +65,6 @@ pattern.exec('/icon-abc.png')?.groups;
 // -> undefined
 ```
 
-Parameter names must only use `a-zA-Z_`, and JavaScript does not allow for multiple named capture groups of the same name.
-
 ### Custom prefix and suffix
 
 Optional parameters matches up to the last `/`, for example:
