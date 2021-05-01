@@ -9,8 +9,10 @@
 		"url": "https://github.com/intrnl/route-matcher"
 	},
 	"main": "lib/index.js",
+	"types": "types/index.d.ts",
 	"files": [
 		"lib/",
+		"types/",
 		"LICENSE",
 		"README.md"
 	],
