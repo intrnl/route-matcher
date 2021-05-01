@@ -2,7 +2,7 @@
 	"type": "module",
 	"name": "@intrnl/route-matcher",
 	"description": "Lightweight utility for converting route patterns into regular expressions.",
-	"version": "0.1.2",
+	"version": "0.1.4",
 	"license": "MIT",
 	"author": "intrnl",
 	"repository": {
